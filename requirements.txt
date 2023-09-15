@@ -1,3 +1,5 @@
-snowflake-snowpark-python[pandas]==1.5.1
-streamlit==1.24.0
+snowflake-snowpark-python[pandas]==1.7.0
+streamlit-nightly >= 1.26.1.dev20230913
 openai==0.27.8
+
+pytest
